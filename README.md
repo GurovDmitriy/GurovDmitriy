@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gurov Dmitriy.
-- 👀 I’m interested in TypeScript, React, Node.js.
+- 👀 I’m interested in TypeScript, React, Vue, Node.js.
 - 🌱 I’m passionate FP, OOP, Design Patterns, data structures and algorithms.
 - 💞️ I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me - gurovdmitriy1991@gmail.com
