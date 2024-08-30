@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gurov Dmitriy
-- 👀 I’m interested in JavaScript, React, Vue, Node.js
-- 🌱 I’m passionate JavaScript conceptions, FP, OOP, Design Patterns, data structures and algorithms
+- 👀 I’m interested in JavaScript conceptions, Angular, React, Vue, NodeJS
+- 🌱 I’m passionate FP, OOP, Design Patterns, Data structures and Algorithms
 - 💞️ I'm the creator of [BeautyLips](https://github.com/BeautyLips)
 - 📫 How to reach me - gurovdmitriy1991@gmail.com
 
