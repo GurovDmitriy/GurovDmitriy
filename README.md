@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Gurov Dmitriy
-- 👀 I’m interested in JavaScript conceptions, Angular, React, Vue, Node
-- 🌱 I’m passionate FP, OOP, Design Patterns, Data structures and Algorithms
+- 👋 Hi, I’m Dmitriy Gurov
+- 👀 I’m interested in JavaScript, Angular, React, Vue
 - 💞️ I'm the creator of [Brainful](https://brainfuljs.dev)
 - 📫 How to reach me - gurovdmitriy1991@gmail.com
 
