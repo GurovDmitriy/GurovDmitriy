@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dmitriy Gurov
+- 👋 Hi, I’m [Dmitriy Gurov](https://gurovdmitriy.github.io/cv/)
 - 👀 I’m interested in JavaScript, RxJS, Angular, React
 - 💞️ I'm the creator of [Brainful](https://brainfuljs.dev), Twori (coming soon), [Beautylips](https://github.com/BeautyLips)
 - 📫 How to reach me - gurovdmitriy1991@gmail.com
